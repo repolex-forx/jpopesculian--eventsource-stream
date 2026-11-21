@@ -1,0 +1,11 @@
+{
+  "org": "jpopesculian",
+  "repo": "eventsource-stream",
+  "versions": [
+    {
+      "commit": "3d46f1c758f9ee4681e9da0427556d24c53f9c01",
+      "tag": "v0.2.3",
+      "parsed_at": "2026-11-21T22:55:30.788386+00:00"
+    }
+  ]
+}
