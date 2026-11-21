@@ -25,6 +25,95 @@
       ],
       "ast": [
         "aggregate/ast/3d46f1c758f9ee4681e9da0427556d24c53f9c01/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/3d46f1c758f9ee4681e9da0427556d24c53f9c01.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "futures-core",
+          "ecosystem": "CARGO",
+          "version": "0.3",
+          "githubOrg": "rust-lang",
+          "githubRepo": "futures-rs",
+          "githubUrl": "https://github.com/rust-lang/futures-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "nom",
+          "ecosystem": "CARGO",
+          "version": "7.1",
+          "githubOrg": "rust-bakery",
+          "githubRepo": "nom",
+          "githubUrl": "https://github.com/rust-bakery/nom",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "pin-project-lite",
+          "ecosystem": "CARGO",
+          "version": "0.2.8",
+          "githubOrg": "taiki-e",
+          "githubRepo": "pin-project-lite",
+          "githubCommit": "f405b4b063ec2a2cdc9e456aa737882ee4915ddd",
+          "githubTag": "v0.2.8",
+          "githubUrl": "https://github.com/taiki-e/pin-project-lite",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "futures",
+          "ecosystem": "CARGO",
+          "version": "0.3",
+          "githubOrg": "rust-lang",
+          "githubRepo": "futures-rs",
+          "githubUrl": "https://github.com/rust-lang/futures-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "http",
+          "ecosystem": "CARGO",
+          "version": "0.2",
+          "githubOrg": "hyperium",
+          "githubRepo": "http",
+          "githubUrl": "https://github.com/hyperium/http",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "reqwest",
+          "ecosystem": "CARGO",
+          "version": "0.11",
+          "githubOrg": "seanmonstar",
+          "githubRepo": "reqwest",
+          "githubUrl": "https://github.com/seanmonstar/reqwest",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tokio",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "tokio",
+          "githubUrl": "https://github.com/tokio-rs/tokio",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "url",
+          "ecosystem": "CARGO",
+          "version": "2.2",
+          "githubOrg": "servo",
+          "githubRepo": "rust-url",
+          "githubUrl": "https://github.com/servo/rust-url",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "futures-util",
+          "ecosystem": "CARGO",
+          "version": "0.3.34",
+          "githubOrg": "rust-lang",
+          "githubRepo": "futures-rs",
+          "githubCommit": "705e6b5c0f06535b1aac1cb1989a172b3d45be8c",
+          "githubTag": "0.3.34",
+          "githubUrl": "https://github.com/rust-lang/futures-rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-util-0.3.34/src/stream/iter.rs"
+        }
       ]
     }
   ],
