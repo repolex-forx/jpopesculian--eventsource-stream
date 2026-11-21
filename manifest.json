@@ -114,7 +114,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-util-0.3.34/src/stream/iter.rs"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/3d46f1c758f9ee4681e9da0427556d24c53f9c01/chunk-001.nq.gz",
+      "dep": "dep/3d46f1c758f9ee4681e9da0427556d24c53f9c01.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
